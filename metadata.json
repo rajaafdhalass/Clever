@@ -1,0 +1,6 @@
+{
+  "name": "Bimbel Cleverly",
+  "description": "Platform belajar interaktif, rangkuman materi, bank soal, dan simulasi tryout untuk jenjang SD, SMP, dan SMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
